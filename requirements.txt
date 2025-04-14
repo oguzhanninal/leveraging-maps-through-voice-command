@@ -1,0 +1,15 @@
+Flask
+pandas
+openai
+python-decouple
+sounddevice
+scipy
+wavio
+geopandas
+networkx
+numpy
+matplotlib
+osmnx
+geopy
+shapely
+simpy

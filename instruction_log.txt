@@ -1,0 +1,3 @@
+Troops moving from Essen to Frankfurt.
+Troops moving from Munich to Frankfurt. 
+Troop moving from Amsterdam to Brussels.
