@@ -1,4 +1,4 @@
-## Display military movements on a map
+## Display movements on a map with a voice command
 #### The Wizards of Doz
 
 App using Leaflet and Flask to display important troops and military movements on a map.
